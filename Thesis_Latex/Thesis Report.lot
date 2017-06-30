@@ -1,0 +1,32 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Sparse Matrix Location Vectors}}{21}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Level-Set Functions}}{25}{table.3.2}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Circle 2D Heat Equation - Crank-Nicholson - $\Delta t = \Delta x$}}{27}{table.3.3}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Diamond 2D Heat Equation - Crank-Nicholson - $\Delta t = \Delta x$}}{27}{table.3.4}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Fat-Petal Flower 2D Heat Equation - Crank-Nicholson - $\Delta t = \Delta x$}}{27}{table.3.5}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Thin-Petal Flower 2D Heat Equation - Crank-Nicholson - $\Delta t = \Delta x$}}{27}{table.3.6}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Circle Third-Order Extrapolation}}{34}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Diamond Third-Order Extrapolation}}{36}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Fat-Petal Flower Third-Order Extrapolation}}{36}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Thin-Petal Flower Third-Order Extrapolation}}{36}{table.4.4}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces 2D WENO Scheme for All Upwind Directions}}{45}{table.5.1}
+\contentsline {table}{\numberline {5.2}{\ignorespaces 2D WENO Scheme for Upwind Direction $D_x^+ \phi $}}{49}{table.5.2}
+\contentsline {table}{\numberline {5.3}{\ignorespaces 2D WENO Scheme for Upwind Direction $D_x^- \phi $}}{49}{table.5.3}
+\contentsline {table}{\numberline {5.4}{\ignorespaces 2D WENO Scheme for Upwind Direction $D_y^+ \phi $}}{49}{table.5.4}
+\contentsline {table}{\numberline {5.5}{\ignorespaces 2D WENO Scheme for Upwind Direction $D_y^- \phi $}}{49}{table.5.5}
+\contentsline {table}{\numberline {5.6}{\ignorespaces Advection Vortex Test w/ $\Delta t = 0.5$ min$(\Delta x,\Delta y)/|v|_{max}$ }}{51}{table.5.6}
+\contentsline {table}{\numberline {5.7}{\ignorespaces Advection Test w/ $\Delta t = 0.5 $min$(\Delta x,\Delta y)/|v|_{max}$}}{53}{table.5.7}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Diffusion Program Efficiency for Various Grid Resolutions}}{64}{table.7.1}
+\contentsline {table}{\numberline {7.2}{\ignorespaces Reinitialization Efficiency for Various Grid Resolutions}}{68}{table.7.2}
+\contentsline {table}{\numberline {7.3}{\ignorespaces Constant Extrapolation Efficiency for Various Grid Resolutions}}{68}{table.7.3}
+\contentsline {table}{\numberline {7.4}{\ignorespaces Third-Order Accuracy Efficiency for Various Grid Resolutions}}{68}{table.7.4}
+\contentsline {table}{\numberline {7.5}{\ignorespaces Time to Make the Snowflake}}{69}{table.7.5}
+\contentsline {table}{\numberline {7.6}{\ignorespaces Time for 275 time steps at Higher Grid Resolution}}{69}{table.7.6}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

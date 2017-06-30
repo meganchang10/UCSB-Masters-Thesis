@@ -1,0 +1,22 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}The Level-Set Method}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}The Reinitialization Equation}{8}{section.2.1}
+\contentsline {chapter}{\numberline {3}Diffusion}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Building an Efficient Sparse Matrix}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Building a Symmetric Matrix to Treat Diffusion on Irregular Domains (The Ghost Fluid Method)}{21}{section.3.2}
+\contentsline {section}{\numberline {3.3}Accuracy of the Diffusion Solver}{25}{section.3.3}
+\contentsline {chapter}{\numberline {4}Calculating the Interface Velocity}{28}{chapter.4}
+\contentsline {section}{\numberline {4.1}Third-Order Extrapolation Method}{30}{section.4.1}
+\contentsline {section}{\numberline {4.2}Accuracy Analysis}{34}{section.4.2}
+\contentsline {section}{\numberline {4.3}Constant Extrapolation of the Interface Velocity}{37}{section.4.3}
+\contentsline {chapter}{\numberline {5}Advection}{39}{chapter.5}
+\contentsline {section}{\numberline {5.1}WENO Schemes}{41}{section.5.1}
+\contentsline {section}{\numberline {5.2}Accuracy of WENO Schemes for Computing First Derivatives}{44}{section.5.2}
+\contentsline {section}{\numberline {5.3}Total Variation Diminishing Runge-Kutta (TVD RK3) Method}{49}{section.5.3}
+\contentsline {section}{\numberline {5.4}Accuracy of the Advection Scheme}{50}{section.5.4}
+\contentsline {chapter}{\numberline {6}Stefan Solver}{54}{chapter.6}
+\contentsline {chapter}{\numberline {7}Efficient Matlab Implementation}{63}{chapter.7}
+\contentsline {section}{\numberline {7.1}Building a Compact Diffusion Matrix}{63}{section.7.1}
+\contentsline {section}{\numberline {7.2}Computing First-Order Directional Derivatives}{67}{section.7.2}
+\contentsline {chapter}{\numberline {8}Closing Thoughts}{70}{chapter.8}
+\contentsline {chapter}{\numberline {9}References}{73}{chapter.9}

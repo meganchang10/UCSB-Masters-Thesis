@@ -1,0 +1,22 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{The Level-Set Method}{}% 2
+\BOOKMARK [1][-]{section.2.1}{The Reinitialization Equation}{chapter.2}% 3
+\BOOKMARK [0][-]{chapter.3}{Diffusion}{}% 4
+\BOOKMARK [1][-]{section.3.1}{Building an Efficient Sparse Matrix}{chapter.3}% 5
+\BOOKMARK [1][-]{section.3.2}{Building a Symmetric Matrix to Treat Diffusion on Irregular Domains \(The Ghost Fluid Method\)}{chapter.3}% 6
+\BOOKMARK [1][-]{section.3.3}{Accuracy of the Diffusion Solver}{chapter.3}% 7
+\BOOKMARK [0][-]{chapter.4}{Calculating the Interface Velocity}{}% 8
+\BOOKMARK [1][-]{section.4.1}{Third-Order Extrapolation Method}{chapter.4}% 9
+\BOOKMARK [1][-]{section.4.2}{Accuracy Analysis}{chapter.4}% 10
+\BOOKMARK [1][-]{section.4.3}{Constant Extrapolation of the Interface Velocity}{chapter.4}% 11
+\BOOKMARK [0][-]{chapter.5}{Advection}{}% 12
+\BOOKMARK [1][-]{section.5.1}{WENO Schemes}{chapter.5}% 13
+\BOOKMARK [1][-]{section.5.2}{Accuracy of WENO Schemes for Computing First Derivatives}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.3}{Total Variation Diminishing Runge-Kutta \(TVD RK3\) Method}{chapter.5}% 15
+\BOOKMARK [1][-]{section.5.4}{Accuracy of the Advection Scheme}{chapter.5}% 16
+\BOOKMARK [0][-]{chapter.6}{Stefan Solver}{}% 17
+\BOOKMARK [0][-]{chapter.7}{Efficient Matlab Implementation}{}% 18
+\BOOKMARK [1][-]{section.7.1}{Building a Compact Diffusion Matrix}{chapter.7}% 19
+\BOOKMARK [1][-]{section.7.2}{Computing First-Order Directional Derivatives}{chapter.7}% 20
+\BOOKMARK [0][-]{chapter.8}{Closing Thoughts}{}% 21
+\BOOKMARK [0][-]{chapter.9}{References}{}% 22

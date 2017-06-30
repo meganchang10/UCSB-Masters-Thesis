@@ -1,0 +1,107 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Interface as an Isocontour of a Higher-Order Dimensional Level-Set Function}}{9}{figure.2.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\phi $}}}{9}{figure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Omega ^-$}}}{9}{figure.2.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$\phi $}}}{9}{figure.2.1}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$\Omega ^-$}}}{9}{figure.2.1}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$\phi $}}}{9}{figure.2.1}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$\Omega ^-$}}}{9}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Level-Set Handling Complex Topological Changes}}{10}{figure.2.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$\phi $}}}{10}{figure.2.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Omega ^-$}}}{10}{figure.2.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$\phi $}}}{10}{figure.2.2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$\Omega ^-$}}}{10}{figure.2.2}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$\phi $}}}{10}{figure.2.2}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$\Omega ^-$}}}{10}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Maintaining the Zero Level-Set During Reinitialization}}{15}{figure.2.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Zero level-set contour}}}{15}{figure.2.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Zoomed in}}}{15}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Reinitializing the Level-Set}}{16}{figure.2.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Before}}}{16}{figure.2.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {After}}}{16}{figure.2.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Ghost Node Implementation}}{22}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 2D Heat Equation with Dirichlet Boundary Conditions for Various Level-Sets}}{26}{figure.3.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Circle}}}{26}{figure.3.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Diamond}}}{26}{figure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Fat-Petal Flower}}}{26}{figure.3.2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Thin-Petal Flower}}}{26}{figure.3.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Third-Order Extrapolation Method}}{33}{figure.4.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Initial Data}}}{33}{figure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {15 iterations}}}{33}{figure.4.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {30 iterations}}}{33}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Iterations to Reach Convergence for Third-Order Extrapolation}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Circle $L^1$}}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Circle $L^\infty $}}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Diamond $L^1$}}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Diamond $L^\infty $}}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Fat-Petal Flower $L^1$}}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Fat-Petal Flower $L^\infty $}}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Thin-Petal Flower $L^1$}}}{35}{figure.4.2}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Thin-Petal Flower $L^\infty $}}}{35}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Location of Error in Third-Order Extrapolation Method}}{36}{figure.4.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Diamond $L^1$}}}{36}{figure.4.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Diamond $L^\infty $}}}{36}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Constant Extrapolation Method}}{38}{figure.4.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Velocity in the subdomain $\Omega ^-$}}}{38}{figure.4.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Velocity extrapolated beyond the interface}}}{38}{figure.4.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Advection}}{40}{figure.5.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Initial Data}}}{40}{figure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$u = +1, v =+ 1$}}}{40}{figure.5.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$u = +1, v = -1$}}}{40}{figure.5.1}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$u = -1, v =+ 1$}}}{40}{figure.5.1}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {$u = -1, v = -1$}}}{40}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces WENO Substencil Choices for Computing One-Sided Finite Differences}}{41}{figure.5.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Possible stencil choices for computing $D_{x}^{+}$}}}{41}{figure.5.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Possible stencil choices for computing $D_{x}^{-}$}}}{41}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces WENO Substencil Selection Example}}{42}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Discontinuous Function Used to Test Accuracy of WENO Schemes}}{47}{figure.5.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mesh: Discontinuous function $\phi $ about $x$}}}{47}{figure.5.4}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Contour: Discontinuous function $\phi $ about $x$}}}{47}{figure.5.4}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Mesh: Discontinuous function $\phi $ about $y$}}}{47}{figure.5.4}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Contour: Discontinuous function $\phi $ about $y$}}}{47}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Non-Oscillatory Results for WENO One-Sided Derivatives}}{48}{figure.5.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mesh: $\phi _x$}}}{48}{figure.5.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Contour: $\phi _x$}}}{48}{figure.5.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Mesh: $\phi _y$}}}{48}{figure.5.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Contour: $\phi _y$}}}{48}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Advection Vortex Test}}{52}{figure.5.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Level-set disfigured after vortex has acted on it for 1 second.}}}{52}{figure.5.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Initial and final level-set after vortex has deformed it in one direction then deformed it in reverse direction.}}}{52}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Negligible Mass Loss During Advection}}{52}{figure.5.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Snowflake Growth A}}{58}{figure.6.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {t = 0.000 s}}}{58}{figure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {t = 0.005 s}}}{58}{figure.6.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {t = 0.010 s}}}{58}{figure.6.1}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {t = 0.015 s}}}{58}{figure.6.1}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {t = 0.020 s}}}{58}{figure.6.1}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {t = 0.025 s}}}{58}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Snowflake Growth B}}{59}{figure.6.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {t = 0.000 s}}}{59}{figure.6.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {t = 0.005 s}}}{59}{figure.6.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {t = 0.010 s}}}{59}{figure.6.2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {t = 0.015 s}}}{59}{figure.6.2}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {t = 0.020 s}}}{59}{figure.6.2}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {t = 0.025 s}}}{59}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Snowflake Growth C}}{60}{figure.6.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {t = 0.000 s}}}{60}{figure.6.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {t = 0.010 s}}}{60}{figure.6.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {t = 0.020 s}}}{60}{figure.6.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {t = 0.030 s}}}{60}{figure.6.3}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {t = 0.040 s}}}{60}{figure.6.3}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {t = 0.050 s}}}{60}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Dendritic Growth Behavior}}{61}{figure.6.4}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Diffusion Effects on Snowflake Growth}}{62}{figure.6.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {D = 3}}}{62}{figure.6.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {D = 1}}}{62}{figure.6.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {D = 3}}}{62}{figure.6.5}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {D = 1}}}{62}{figure.6.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Diffusion Efficiency Sample Grid}}{65}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces How Ghost Points Work}}{66}{figure.7.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

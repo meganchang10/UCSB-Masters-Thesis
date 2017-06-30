@@ -1,0 +1,13 @@
+%
+%  Abstract
+%
+
+\begin{abstract}
+%todo: max 350 words
+
+In this thesis, we consider the piecewise constant coefficient Stefan problem, a free boundary problem described by a partial differential equation with an unknown concentration $u$ and an unknown time-dependent irregular domain $\Omega^-$, used primarily to study phase transitions. We present a numerical method for solving the two-dimensional, unsteady, two-phase, diffusion equation on an irregular domain with Dirichlet boundary conditions at the solidification front. Several techniques were implemented to achieve this including: the implicit level-set method to update the location of the interface and keep track of the two phases it separates; the Ghost-Fluid method to impose boundary conditions on an irregular domain and allow for symmetric discretization of our diffusion matrix; a third-order extrapolation method to allow for both accurate interface velocity calculations and implicit discretization by providing valid values at grid points that may be contained in $\Omega^-$ in the next time step; a combination of WENO spatial discretization and TVD RK3 time discretization to achieve third-order accurate advection; and finally for diffusion, we implemented the Crank-Nicholson method to achieve second-order accuracy in both space and time with implicit time stepping. Overall, for the Stefan problem, we demonstrate that through robust and computationally efficient methods, it is possible to simulate complex dendritic crystal growth.
+
+%\abstractsignature
+\end{abstract}
+
+
